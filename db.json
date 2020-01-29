@@ -3,10 +3,24 @@
       "result":"succ",
       "message":"",
       "data" : {
-          "cstmFnm":"hojinyi",
-          "mmbrWegVl":60.5,
-          "mmbrMmtDvcd" : "H",
-          "gndrDvcd" :"M"
+          
+          "today" : {
+              "stepRecomm":10000,
+              "calorie":345,
+              "distance":3,
+              "distanceAvg":1.5,
+              "gradePerTxt":"this is grade per txt.",
+              "gradePer":2,
+              "gradeTxt":"운동량이 매우 매우 부족합니다.",
+              "gradeTxtSub":"본인 건강을 위해서라도 열심히 걸으세요.",
+              "grade":46
+          },
+
+          "graph: {
+              "xLabel":"Today",
+              "y1":6547,
+              "y2":10000
+          }
       }
   },
   "comments": [
