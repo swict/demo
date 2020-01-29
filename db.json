@@ -15,8 +15,12 @@
               "gradeTxtSub":"본인 건강을 위해서라도 열심히 걸으세요.",
               "grade":46,
               
-              "intakeRecomm" : 2000.0,
-              "waterAvg" : 800.0
+              "intakeRecomm" : 6000.0,
+              "waterAvg" : 300.0,
+              
+              "ptRecomm":300.0,
+              "ptAvg":50.0,
+              "ptDay":30
           },
 
           "graph": {
@@ -29,7 +33,10 @@
               "strDay" : "6",
               "pritDttm" : "20200406",
               "sumIntkCpctVl" : 100.0,
-              "recommWater" : 400.0
+              "recommWater" : 400.0,
+              
+              "ptTime":211.0,
+              "recommPT":300.0
           }
       }
   },
