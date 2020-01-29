@@ -20,7 +20,12 @@
               
               "ptRecomm":300.0,
               "ptAvg":50.0,
-              "ptDay":30
+              "ptDay":30,
+              "movieId":"id-345",
+              "movieURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4",
+              "movieTitle":"스트레칭",
+              "movieDetail":"안면 근육의 완화와\n복근이 뭉치는 걸 막아줍니다.",
+              "movieDuration":60
           },
 
           "graph": {
