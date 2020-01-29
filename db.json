@@ -13,13 +13,23 @@
               "gradePer":27,
               "gradeTxt":"운동량이 매우 매우 부족합니다.",
               "gradeTxtSub":"본인 건강을 위해서라도 열심히 걸으세요.",
-              "grade":46
+              "grade":46,
+              
+              "intakeRecomm" : 2000.0,
+              "waterAvg" : 800.0
           },
 
           "graph": {
               "xLabel":"Today",
               "y1":6547,
-              "y2":10000
+              "y2":10000,
+              
+              
+              "strMonth" : "4"
+              "strDay" : "6"
+              "pritDttm" : "20200406"//날짜
+              "sumIntkCpctVl" : 0.0
+              "recommWater" : 0.0
           }
       }
   },
