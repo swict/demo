@@ -28,8 +28,8 @@
               "strMonth" : "4",
               "strDay" : "6",
               "pritDttm" : "20200406",
-              "sumIntkCpctVl" : 0.0,
-              "recommWater" : 0.0
+              "sumIntkCpctVl" : 100.0,
+              "recommWater" : 400.0
           }
       }
   },
