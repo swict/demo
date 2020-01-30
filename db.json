@@ -19,8 +19,8 @@
               "waterAvg" : 300.0,
               
               "ptRecomm":300.0,
-              "ptAvg":50.0,
-              "ptDay":30,
+              "dyAvgWkoSec":50.0,
+              "ptDays":30,
               "movieId":"id-345",
               "movieURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4",
               "movieTitle":"스트레칭",
@@ -45,6 +45,69 @@
           }
       }
   },
+  
+  "todayreport": {
+      "result":"succ",
+      "message":"",
+      "data" : {
+          
+          "step" : {
+              "stepRecomm":10000,
+              "calorie":345,
+              "distance":3,
+              "distanceAvg":1.5,
+              "gradePerTxt":"하위",
+              "gradePer":27,
+              "gradeTxt":"운동량이 매우 매우 부족합니다.",
+              "gradeTxtSub":"본인 건강을 위해서라도 열심히 걸으세요.",
+              "grade":46
+          },
+          "water" : {
+              
+              "gradePerTxt":"하위",
+              "gradePer":27,
+              "gradeTxt":"운동량이 매우 매우 부족합니다.",
+              "gradeTxtSub":"본인 건강을 위해서라도 열심히 걸으세요.",
+              "grade":46,
+              
+              "intakeRecomm" : 6000.0,
+              "waterAvg" : 300.0
+          },
+          "pt" : {
+              
+              "gradePerTxt":"하위",
+              "gradePer":27,
+              "gradeTxt":"운동량이 매우 매우 부족합니다.",
+              "gradeTxtSub":"본인 건강을 위해서라도 열심히 걸으세요.",
+              "grade":46,
+              
+              
+              "ptRecomm":300.0,
+              "dyAvgWkoSec":50.0,
+              "ptDays":30,
+              "movieId":"id-345",
+              "movieURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4",
+              "movieTitle":"스트레칭",
+              "movieDetail":"안면 근육의 완화와\n복근이 뭉치는 걸 막아줍니다.",
+              "movieDuration":60
+              
+              
+          },
+          "mgzn" : {
+              
+              "gradePerTxt":"하위",
+              "gradePer":27,
+              "gradeTxt":"운동량이 매우 매우 부족합니다.",
+              "gradeTxtSub":"본인 건강을 위해서라도 열심히 걸으세요.",
+              "grade":46,
+              
+              "readRecomm":50,
+              "readCnt":12
+          }
+      }
+  },
+  
+  
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
