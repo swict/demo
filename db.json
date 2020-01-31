@@ -122,10 +122,10 @@
 
             "stepDtlTtl":{
                 "totalnum":"총 걸음 수",
-                "avgnum":"평균 걸음 수",
-                "daynotfinish":"기록이 없는 날",
-                "percentday":"매일 걷기 달성률",
-                "dayfinish":"꾸준한 정도"
+                "avgNum":"평균 걸음 수",
+                "dayNotFinish":"기록이 없는 날",
+                "percentDay":"매일 걷기 달성률",
+                "dayFinish":"꾸준한 정도"
 
             },
 
@@ -145,10 +145,10 @@
 
             "ptDtlTtl":{
                 "totalnum":"총 걸음 수",
-                "avgnum":"평균 걸음 수",
-                "daynotfinish":"기록이 없는 날",
-                "percentday":"매일 걷기 달성률",
-                "dayfinish":"꾸준한 정도"
+                "avgNum":"평균 걸음 수",
+                "dayNotFinish":"기록이 없는 날",
+                "percentDay":"매일 걷기 달성률",
+                "dayFinish":"꾸준한 정도"
 
             },
 
@@ -167,10 +167,10 @@
 
             "waterDtlTtl":{
                 "totalnum":"총 걸음 수",
-                "avgnum":"평균 걸음 수",
-                "daynotfinish":"기록이 없는 날",
-                "percentday":"매일 걷기 달성률",
-                "dayfinish":"꾸준한 정도"
+                "avgNum":"평균 걸음 수",
+                "dayNotFinish":"기록이 없는 날",
+                "percentDay":"매일 걷기 달성률",
+                "dayFinish":"꾸준한 정도"
             },
 
 
@@ -189,10 +189,10 @@
 
             "mgznDtlTtl":{
                 "totalnum":"총 걸음 수",
-                "avgnum":"평균 걸음 수",
-                "daynotfinish":"기록이 없는 날",
-                "percentday":"매일 걷기 달성률",
-                "dayfinish":"꾸준한 정도"
+                "avgNum":"평균 걸음 수",
+                "dayNotFinish":"기록이 없는 날",
+                "percentDay":"매일 걷기 달성률",
+                "dayFinish":"꾸준한 정도"
 
             }
 
